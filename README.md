@@ -14,7 +14,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/shaikh-faizan-ahmed/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Shaikh Faizan Ahemad" width="70" /></a>
-    <a href="https://kaggle.com/https://www.kaggle.com/shaikhfaizanahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shaikhfaizanahmed" height="30" width="40" /></a>
+    <a href="https://www.kaggle.com/shaikhfaizanahmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shaikhfaizanahmed" height="30" width="40" /></a>
 
 
 
