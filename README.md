@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/Mf1JtqE.png" alt="Shaikh Faizan Ahmed - Professional Banner" width="100%" />
+<!--   <img src="https://i.imgur.com/Mf1JtqE.png" alt="Shaikh Faizan Ahmed - Professional Banner" width="100%" /> -->
 </p>
 
 <!-- Intro -->
@@ -12,83 +12,58 @@
 
 ---
 
-<!-- Connect with Me -->
-<h2 align="center">🤝 Connect with Me</h2>
-<p align="center">
-  <a href="mailto:faizan.iitjammu2023@gmail.com">
-    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/shaikh-faizan-ahmed/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
-  </a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/4HWT5J4U47DR">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="40" />
-  </a>
-  <a href="https://www.credly.com/badges/73674fe6-f561-471d-8063-16812dab89cb?source=linked_in_profile">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
-  </a>
+📬 Connect with me:
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/shaikh-faizan-ahmed" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikh-faizan-ahmed" height="30" width="40" /></a>
+<a href="mailto:faizan.iitjammu2023@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="faizan.iitjammu2023@gmail.com" height="30" width="40" /></a>
 </p>
 
 ---
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizan-iitj&theme=algolia&no-frame=true&margin-w=5&margin-h=5" />
+💻 Languages and Skills
+Programming Languages
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizan-iitj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizan-iitj&layout=compact&langs_count=8&theme=tokyonight" height="165"/>
+Data Analysis & Visualization
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d852630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
 </p>
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=faizan-iitj&theme=tokyonight&hide_border=true" height="165"/>
+ML/AI Frameworks & Tools
+<p align="left">
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://avatars.githubusercontent.com/u/108923340%3Fs%3D200%26v%3D4" alt="langchain" width="40" height="40"/> </a>
 </p>
 
----
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-iitj&theme=github-dark" />
+Cloud & DevOps
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
 </p>
 
----
-
-<!-- Skills -->
-<h2 align="center">🛠 Skills</h2>
+📊 GitHub Stats
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" />  
+<a href="https://www.google.com/search?q=https://github.com/shaikh-faizan-ahmed">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dshaikh-faizan-ahmed%26layout%3Dcompact%26theme%3Ddracula" alt="Top Languages" />
+</a>
 </p>
 
-**Programming Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-
-**ML/AI Frameworks:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" width="40"/>
-
-**Data Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-
-**DevOps & Infra:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-
----
-
-<!-- Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-- **[RAG-based Insurance Document Chatbot](https://github.com/faizan-iitj/RAG-Insurance-Chatbot)**  
-  Retrieval Augmented Generation chatbot for querying insurance documents in natural language.  
-  *Tech:* Python, LangChain, Gradio, HuggingFace
-
-- **[Real-World Motion Blur Video Super Resolution](https://github.com/faizan-iitj/Video-Super-Resolution)**  
-  Video SR model restoring high-res quality while removing noise, blur, and artifacts.  
-  *Tech:* Python, PyTorch, NumPy
-
+<p align="center">
+<a href="https://www.google.com/search?q=https://github.com/shaikh-faizan-ahmed">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dshaikh-faizan-ahmed%26theme%3Ddracula" alt="GitHub Streak" />
+</a>
+</p>
 - **[Cyclistic Bike-Share Analysis](https://github.com/faizan-iitj/Cyclistic-Data-Analysis)**  
   Data analysis in R & Tableau to inform marketing strategies from 1 year of usage data.  
   *Tech:* R, Tableau
