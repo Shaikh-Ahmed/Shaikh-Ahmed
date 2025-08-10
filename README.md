@@ -1,4 +1,9 @@
-<!-- Profile Banner / Animated Intro -->
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/Mf1JtqE.png" alt="Shaikh Faizan Ahmed - Professional Banner" width="100%" />
+</p>
+
+<!-- Intro -->
 <h1 align="center">Hi 👋, I'm Shaikh Faizan Ahmed</h1>
 <h3 align="center">M.Tech @ IIT Jammu | Ex-Amazon SDE | ML/AI & Data Engineering Enthusiast</h3>
 <p align="center">
@@ -7,19 +12,20 @@
 
 ---
 
-<!-- Social Links -->
+<!-- Connect with Me -->
+<h2 align="center">🤝 Connect with Me</h2>
 <p align="center">
   <a href="mailto:faizan.iitjammu2023@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40" />
   </a>
   <a href="https://linkedin.com/in/shaikh-faizan-ahmed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/specialization/4HWT5J4U47DR">
-    <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="40" />
   </a>
   <a href="https://www.credly.com/badges/73674fe6-f561-471d-8063-16812dab89cb?source=linked_in_profile">
-    <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
   </a>
 </p>
 
@@ -32,28 +38,15 @@
 
 ---
 
-<!-- GitHub Stats (Auto Theme) -->
+<!-- GitHub Stats -->
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=faizan-iitj&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=faizan-iitj&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=faizan-iitj&show_icons=true" height="165"/>
-  </picture>
-
-  <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=faizan-iitj&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=faizan-iitj&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=faizan-iitj" height="165"/>
-  </picture>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=faizan-iitj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faizan-iitj&layout=compact&langs_count=8&theme=tokyonight" height="165"/>
 </p>
 
-<!-- Language Stats -->
+<!-- Streak Stats -->
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-iitj&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-iitj&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-iitj&layout=compact" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=faizan-iitj&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -67,18 +60,21 @@
 
 <!-- Skills -->
 <h2 align="center">🛠 Skills</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40" />  
+</p>
 
 **Programming Languages:**  
-`Python` `C++` `JavaScript` `SQL` `C`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
 
 **ML/AI Frameworks:**  
-`PyTorch` `TensorFlow` `LangChain` `AutoGluon`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/3536/3536445.png" width="40"/>
 
 **Data Tools:**  
-`NumPy` `Pandas` `AWS Athena` `AWS Glue` `AWS S3`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 
 **DevOps & Infra:**  
-`Docker` `Jenkins` `Git` `Gerrit` `Linux`
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 
 ---
 
@@ -97,63 +93,14 @@
   Data analysis in R & Tableau to inform marketing strategies from 1 year of usage data.  
   *Tech:* R, Tableau
 
-<details>
-  <summary>📂 View All Projects</summary>
-
-  ### Retrieval Augmented Generation Chatbot
-  - Integrated semantic search, conversational memory, and document loaders for context-aware Q&A.
-  - Used LangChain & HuggingFace for NLP pipeline.
-
-  ### Video Super Resolution Model
-  - Removed real-world degradations: blur, noise, artifacts.
-  - Restored high-res frames from degraded inputs.
-
-  ### Cyclistic Bike-Share Analysis
-  - Performed data cleaning, visualization, and KPI extraction for marketing insights.
-  - Used R, Tableau for dashboard creation.
-
-</details>
-
----
-
-<!-- Experience -->
-<h2 align="center">💼 Professional Experience</h2>
-
-<details>
-  <summary>Amazon – Software Development Engineer (Jan 2024 – Jul 2025)</summary>
-
-  - Rebuilt internal log analysis platform, restoring full functionality and improving reliability.
-  - Designed LMK reporting with custom parsing & dynamic UI (JavaScript, AWS Glue, Athena, S3) → log traceability improved 3x.
-  - Led UI overhaul of LogParrot → troubleshooting time reduced by 25%.
-  - Enhanced PerfTracker: added OOM scoring, memory KPIs, and configurable metric intervals.
-  - Reduced logging noise by 60% and debug time by 30%.
-  - Improved Fire OS stability: configurable ANR timeouts, critical crash fixes, granular tombstone diagnostics.
-  - **Tech:** Python, JavaScript, Java, Git, Jenkins, Gerrit, Kibana, AWS.
-
-</details>
-
-<details>
-  <summary>IIT Jammu – Teaching Assistant (Sep 2021 – May 2023)</summary>
-
-  - Assisted in Data Structures, Numerical Methods, and Operating Systems labs.
-  - Guided M.Tech students in debugging, evaluation, and code optimization.
-
-</details>
-
 ---
 
 <!-- Certifications -->
 <h2 align="center">📜 Certifications</h2>
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/4HWT5J4U47DR">
-    <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-0056D2?style=flat&logo=coursera&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/badges/73674fe6-f561-471d-8063-16812dab89cb?source=linked_in_profile">
-    <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=flat&logo=google&logoColor=white" />
-  </a>
-  <a href="https://hpepro.ext.hpe.com/everify">
-    <img src="https://img.shields.io/badge/Big%20Data%20Programming-FF6F00?style=flat&logo=apache&logoColor=white" />
-  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/4HWT5J4U47DR"><img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-0056D2?style=flat&logo=coursera&logoColor=white" /></a>
+  <a href="https://www.credly.com/badges/73674fe6-f561-471d-8063-16812dab89cb?source=linked_in_profile"><img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=flat&logo=google&logoColor=white" /></a>
+  <a href="https://hpepro.ext.hpe.com/everify"><img src="https://img.shields.io/badge/Big%20Data%20Programming-FF6F00?style=flat&logo=apache&logoColor=white" /></a>
 </p>
 
 ---
