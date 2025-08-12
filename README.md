@@ -68,7 +68,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikh-ahmed&show_icons=true&locale=en&layout=compact" alt="shaikh-ahmed"/> </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikh-ahmed&"width="370"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikh-ahmed&" alt="shaikh-ahmed" width="370"/> -->
   <img src="https://github-readme-stats.vercel.app/api?username=shaikh-ahmed&show_icons=true&locale=en" alt="shaikh-ahmed" width="350"/> 
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikh-ahmed" alt="shaikh-ahmed" /></a> </p>
