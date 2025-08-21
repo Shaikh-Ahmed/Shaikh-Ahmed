@@ -66,7 +66,7 @@
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://www.credly.com/badges/40bee502-a5b3-4365-90e7-57eed5067594/public_url" target="_blank">
+      <a href="https://www.credly.com/badges/2963d09b-cb04-4d62-bbbf-4bec4ff516da/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="120" height="120" alt="AI Specialist"><br>
         <sub><b>Python for AI</b></sub>
       </a>
