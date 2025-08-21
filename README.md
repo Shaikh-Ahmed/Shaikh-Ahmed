@@ -51,6 +51,32 @@
 <!-- Certifications -->
 <h2 align="left">Certification</h2>
 
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/44bfc0e3-b821-4cbe-a4bb-6feb7019d795/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/6dff9a88-0130-483b-861e-c6de13851780/Coursera_20Develop_20Gen_20AI_20Applications_20Get_20Started.png" width="120" height="120" alt="GenAI Apps"><br>
+        <sub><b>Develop GenAI Applications</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/73674fe6-f561-471d-8063-16812dab89cb/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png" width="120" height="120" alt="Google Data Analytics"><br>
+        <sub><b>Google Data Analytics</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/40bee502-a5b3-4365-90e7-57eed5067594/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="120" height="120" alt="AI Specialist"><br>
+        <sub><b>Python for AI</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+<!--
 - <a href="https://www.coursera.org/account/accomplishments/specialization/4HWT5J4U47DR">
     <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-0056D2?style=flat&logo=coursera&logoColor=white" />
 </a>
@@ -62,13 +88,13 @@
 - <a href="https://hpepro.ext.hpe.com/everify">
     <img src="https://img.shields.io/badge/Big%20Data%20Programming-FF6F00?style=flat&logo=apache&logoColor=white" />
 </a>
-
+-->
 
 <h2 align="left">Github's Stats </h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikh-ahmed&show_icons=true&locale=en&layout=compact" alt="shaikh-ahmed"/> </p>
 <p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikh-ahmed&" alt="shaikh-ahmed" width="370"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikh-ahmed&" alt="shaikh-ahmed" width="370"/>
   <img src="https://github-readme-stats.vercel.app/api?username=shaikh-ahmed&show_icons=true&locale=en" alt="shaikh-ahmed" width="350"/> 
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikh-ahmed" alt="shaikh-ahmed" /></a> </p>
