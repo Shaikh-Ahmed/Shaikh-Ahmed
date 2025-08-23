@@ -49,10 +49,16 @@
 
 
 <!-- Certifications -->
-<h2 align="left">Certification</h2>
+<h2 align="left">Certifications</h2>
 
 <table align="center">
   <tr>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/badges/a76c0738-4336-408c-bae3-bc59b9ea7ce8/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/5f826bbb-5028-4ed0-aa9b-f5d402f96a0b/Coursera_20Build_20RAG_20Applications_20Get_20Started.png" width="120" height="120" alt="AI Specialist"><br>
+        <sub><b>Build RAG App</b></sub>
+      </a>
+    </td>
     <td align="center" width="200">
       <a href="https://www.credly.com/badges/44bfc0e3-b821-4cbe-a4bb-6feb7019d795/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/6dff9a88-0130-483b-861e-c6de13851780/Coursera_20Develop_20Gen_20AI_20Applications_20Get_20Started.png" width="120" height="120" alt="GenAI Apps"><br>
