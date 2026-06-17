@@ -26,12 +26,7 @@
 
 ## About Me
 
-* **Software Developer & enerative AI Engineer** with 2.4+ years of experience specializing in LLM applications, RAG pipelines, and stateful multi-agent orchestration.
-* Engineered real-time AI voice automation infrastructure handling 1L+ daily sessions at **Vibrium AI**.
-* Previously built scalable backend systems and robust observability platforms as a **Software Development Engineer at Amazon**.
-* **M.Tech in Computer Science and Engineering** from IIT Jammu.
-* Building production-grade Agentic AI solutions utilizing the **Google Agent Development Kit**, **AWS Bedrock**, and **FastAPI**.
-* **Consultancy & Collaboration:** I drive tech innovation through ByteOn Technologies. If you are looking to build tailored digital or AI solutions, you can schedule a meeting with me to discuss your vision.
+I am a **Generative AI Engineer and Software Developer** with 2.4+ years of experience building production-scale AI and backend systems at **Amazon** and Vibrium AI. Specialized in LLM applications, RAG pipelines, multi-agent AI systems, and AI voice automation. Experienced in designing scalable cloud-native solutions using Python, AWS, FastAPI, and modern AI frameworks, with a strong foundation in distributed systems, observability, and system reliability. M.Tech graduate from **IIT Jammu** passionate about transforming cutting-edge AI research into real-world products. I invite you to schedule a meeting with me to discuss how we can bring your vision to life!
 
 ---
 
@@ -65,7 +60,6 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" hspace="12" /></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" hspace="12" /></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" hspace="12" /></a>
-  <br/><br/>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" hspace="12" /></a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" hspace="12" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" hspace="12" /></a>
@@ -79,7 +73,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" hspace="12" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="12" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" hspace="12" /></a>
-  <br/><br/>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" hspace="12" /></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" hspace="12" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" hspace="12" /></a>
