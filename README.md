@@ -26,7 +26,7 @@
 
 ## About Me
 
-I am a **Generative AI Engineer and Software Developer** with 2.4+ years of experience building production-scale AI and backend systems at **Amazon** and Vibrium AI. Specialized in LLM applications, RAG pipelines, multi-agent AI systems, and AI voice automation. Experienced in designing scalable cloud-native solutions using Python, AWS, FastAPI, and modern AI frameworks, with a strong foundation in distributed systems, observability, and system reliability. M.Tech graduate from **IIT Jammu** passionate about transforming cutting-edge AI research into real-world products. I invite you to schedule a meeting with me to discuss how we can bring your vision to life!
+I am a **Generative AI Engineer and Software Developer** with 3 years of experience building production-scale AI and backend systems at **Amazon** and Vibrium AI. Specialized in LLM applications, RAG pipelines, multi-agent AI systems, and AI voice automation. Experienced in designing scalable cloud-native solutions using Python, AWS, FastAPI, and modern AI frameworks, with a strong foundation in distributed systems, observability, and system reliability. M.Tech graduate from **IIT Jammu** passionate about transforming cutting-edge AI research into real-world products. I invite you to schedule a meeting with me to discuss how we can bring your vision to life!
 
 ---
 
@@ -41,6 +41,11 @@ I am a **Generative AI Engineer and Software Developer** with 2.4+ years of expe
 * Rebuilt a mission-critical internal log analysis platform, restoring 100% core functionality and improving system stability.
 * Engineered and deployed an ETL-based LMK reporting system using AWS Glue, Athena, and S3, improving log traceability by 3x.
 * Reduced logging noise by approximately 60% and improved debugging efficiency by 30% through enhancements in the PerfTracker architecture.
+
+### **Software Development Engineer | Amploop** *(Jul 2023 - Jan 2024)*
+* Developed full-stack applications using Python, React.js, REST APIs, and MySQL, contributing to the delivery of scalable production-ready software solutions.
+* Designed and implemented backend APIs and business logic modules, improving application responsiveness and reducing manual operational effort through workflow automation.
+* Resolved 20+ software defects through debugging, root-cause analysis, and performance optimization, enhancing system reliability and user satisfaction.
 
 ---
 
